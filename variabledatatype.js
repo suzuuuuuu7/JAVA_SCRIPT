@@ -36,3 +36,5 @@ const product = {
     discount:"5%"
 }
 console.log(product);
+alert("hello");
+

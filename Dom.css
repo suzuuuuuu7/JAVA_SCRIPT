@@ -1,0 +1,14 @@
+h1{
+    color: "blue";
+    text-decoration: underline;
+    background-color: aqua;
+    
+}
+body{
+    background-color: pink;
+}
+   
+button{
+    color:black;
+    background-color: yellow;
+}

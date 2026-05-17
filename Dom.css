@@ -1,14 +1,14 @@
-h1{
-    color: "blue";
-    text-decoration: underline;
-    background-color: aqua;
+#heading{
+    
+    text-decoration:dashed;
+    background-color: orange;
     
 }
 body{
     background-color: pink;
 }
    
-button{
+.one{ 
     color:black;
     background-color: yellow;
 }

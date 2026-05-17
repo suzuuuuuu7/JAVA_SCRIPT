@@ -1,3 +1,3 @@
-let name = prompt("enter your name")
-console.log(name)
-window.console.log("hello")
+let btn = document.querySelector("p");
+console.dir(btn)
+btn.tagName

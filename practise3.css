@@ -1,0 +1,15 @@
+.para{
+    color: green;
+    background-color: red;
+}
+.newpara{
+    color:green;
+    background-color: white;
+}
+.mybtn{
+    color: blueviolet;
+}
+.mynewbtn{
+    background-color: aqua;
+    border-radius: 10px;
+}
